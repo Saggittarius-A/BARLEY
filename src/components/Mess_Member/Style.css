@@ -1,0 +1,57 @@
+.food{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+    width:100px;
+  }
+  .headerfood{
+    margin-bottom: 50px;
+  }
+
+  .welcome{
+    background-color:#f8dd30;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top:50px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 20px;
+    grid-area: header;
+    font-size: 2.5rem;
+    display:flex;
+    padding:20px;
+    color:black;
+  }
+  
+  .rowblock{
+    display: flex;
+    padding:20px;
+    background-color:  #f8dd30;
+    margin-top:0px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 5px;
+    border-radius: 0.5rem;
+    justify-content: space-between;;
+  }
+  
+ 
+  .btn-food{
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  .btn-food-result{
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    padding: 5px 5px;
+    border-radius: 5px;
+    margin-right: 100%;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
